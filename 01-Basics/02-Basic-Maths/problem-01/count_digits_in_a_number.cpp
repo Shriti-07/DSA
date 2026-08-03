@@ -1,5 +1,7 @@
-// Optimal — O(1)
-class Solution {
+#include<bits/stdc++.h>
+using namespace std;
+//Optimal — O(1)
+/* class Solution {
 public:
     int countDigit(int x) {
         if (x == 0) {
@@ -8,7 +10,7 @@ public:
         x = abs(x);
         return 1 + (int)log10(x);
     }
-};
+}; */
 
 // Brute force — O(log10(n))
 class SolutionBrute {
