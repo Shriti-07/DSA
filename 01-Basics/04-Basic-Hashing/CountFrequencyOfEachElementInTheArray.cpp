@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 void countFrequency(int arr[],int n){
-    map< int ,int > m;
+    unordered_map< int ,int > m;
     for(int i=0;i<n;i++){
         m[arr[i]]++;
     }
