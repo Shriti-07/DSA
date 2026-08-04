@@ -4,8 +4,13 @@ using namespace std;
 class Solution {
 public:
     vector<int> insertionSort(vector<int>& nums) {
-        // TODO: write your solution here
-
+        int n=nums.size();
+        for(int i=1;i<n;i++){
+            for(int j=i;j>0 && nums[j-1]>nums[j];j--){
+                swap(nums[j-1],nums[j]);
+            }
+        }
+    return nums;
     }
 };
 
