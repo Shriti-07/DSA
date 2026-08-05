@@ -1,19 +1,44 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-
-class Solution {
-public:
-    vector<int> mergeSort(vector<int>& nums) {
-        // TODO: write your solution here
-
+void merge(vector<int> &arr,int low,int mid,int high){
+    vector<int> temp;
+    int left=low;
+    int right=mid+1;
+    while(left<=mid && right<=high){
+        if(arr[left]<=arr[right]){
+            temp.push_back(arr[left]);
+            left++;
+        }
+        else{
+            temp.push_back(arr[right]);
+            right++;
+        }
     }
-};
-
+    while(left<=mid){
+        temp.push_back(arr[left]);
+        left++;
+    }
+    while(right<=high){
+        temp.push_back(arr[right]);
+        right++;
+    }
+    for(int i=low;i<=high;i++){
+        arr[i]=temp[i-low];
+    }
+}
+void mergeSort(vector<int> &arr,int low,int high){
+    if(low==high) return;
+    int mid=(low+high)/2;
+    mergeSort(arr,low,mid);
+    mergeSort(arr,mid+1,high);
+    merge(arr,low,mid,high);
+}
 int main() {
-    vector<int> nums = {5, 1, 4, 2, 8};
-    Solution sol;
-    vector<int> result = sol.mergeSort(nums);
-    for (int x : result) cout << x << " ";
-    cout << endl;
+    vector<int> arr={1,2,2,8,5,21,67,9,33};
+    int n=arr.size();
+    mergeSort(arr,0,n-1);
+    for(auto i: arr){
+        cout<<i<<" ";
+    }
     return 0;
 }
