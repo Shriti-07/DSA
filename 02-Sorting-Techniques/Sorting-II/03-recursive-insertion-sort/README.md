@@ -13,8 +13,9 @@ Output: [5, 6, 11, 12, 13]
 ```
 
 ## Approach
-_TODO — fill in once solved._
+Recursively sort the first n-1 elements of the array. Once the prefix is sorted, store the last element (at index n-1) and shift all larger elements in the sorted prefix one position to the right to clear a spot, then insert the stored element into its correct sorted position.
 
 ## Complexity
-- **Time Complexity:** TODO
-- **Space Complexity:** TODO
+- **Time Complexity:** O(n²) - in the worst and average cases, as inserting the nth element requires shifting up to n-1 elements.
+- **Space Complexity:** O(n) - due to the recursive call stack space, which reaches a maximum depth of n.
+
