@@ -1,0 +1,30 @@
+#include<bits/stdc++.h>
+using namespace std;
+class Solution {
+public:
+    vector<int> unionArray(vector<int>& nums1, vector<int>& nums2) {
+        map<int,int> frequency;
+        vector<int> uni;
+        for(int i=0;i<nums1.size();i++){
+            frequency[(nums1[i])];
+        }
+        for(int i=0;i<nums2.size();i++){
+            frequency[nums2[i]]++;
+        }
+        for (auto it : frequency){
+            uni.emplace_back(it.first);
+        }
+        return uni;
+    }
+};
+
+int main() {
+    vector<int> arr1={1,2,2,8,5,21,67,9,33};
+    vector<int> arr2={1,90,45,2,8,50,21};
+    Solution sol;
+    vector<int> uni=sol.unionArray(arr1,arr2);
+    for(auto it: uni){
+        cout<<it;
+    }
+    return 0;
+}
