@@ -75,7 +75,7 @@ int main() {
     vector<int> arr={10, -5, 2, 3, -1, 8};
     int k=5;
     Solution sol;
-    int len=sol.secondLargestElement(arr,k);
+    int len=sol.subarraySum(arr,k);
     cout<<len;
     return 0;
 }
