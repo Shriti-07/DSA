@@ -6,9 +6,7 @@ public:
         for(auto i :nums){
             count[i]++;
         }
-        /* int maxNumCount=0;
-        int maxNum=0; */
-        for(auto it:count){
+        for(auto& it:count){
             if(it.second>n/2){
                 return it.first;
             }
