@@ -23,6 +23,7 @@ Solving dsa questions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shriti-07/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -38,6 +39,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shriti-07/DSA/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -74,4 +76,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
