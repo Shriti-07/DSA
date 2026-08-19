@@ -1,7 +1,3 @@
-#include <vector>
-#include <unordered_set>
-#include <algorithm>
-
 class Solution {
 public:
     int longestConsecutive(std::vector<int>& nums) {
