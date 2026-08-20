@@ -9,6 +9,7 @@ Solving dsa questions.
 | [0001-two-sum](https://github.com/Shriti-07/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shriti-07/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Shriti-07/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shriti-07/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shriti-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -25,6 +26,7 @@ Solving dsa questions.
 | ------- |
 | [0015-3sum](https://github.com/Shriti-07/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Shriti-07/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
