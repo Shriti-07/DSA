@@ -11,6 +11,7 @@ Solving dsa questions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shriti-07/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Shriti-07/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Shriti-07/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shriti-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Shriti-07/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -44,6 +45,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shriti-07/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Shriti-07/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shriti-07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
@@ -91,4 +93,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shriti-07/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shriti-07/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
