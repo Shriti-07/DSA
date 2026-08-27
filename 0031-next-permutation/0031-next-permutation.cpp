@@ -11,6 +11,7 @@ public:
         }
         if (pivot == -1) {
             reverse(nums.begin(), nums.end());
+            sort(nums.begin()+1, nums.end());
             return;
         }
         int candidate = pivot + 1;
