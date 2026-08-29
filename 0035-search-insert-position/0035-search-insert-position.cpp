@@ -5,7 +5,7 @@ public:
         int upper=nums.size()-1;
         int mid;
         while(lower<=upper){
-            mid=(lower+upper)/2;
+            int mid=lower+(upper-lower)/2;//thi s is not efficient mid=(lower+upper)/2;
             if(nums[mid]==target){
                 return mid;
             }
