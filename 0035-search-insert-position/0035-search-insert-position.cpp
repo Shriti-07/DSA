@@ -16,11 +16,6 @@ public:
                 lower=mid+1;
             }
         }
-        if(nums[mid]>target){
-            return mid;
-        }
-        else{
-            return upper+1;
-        }
+        return lower;
     }
 };
