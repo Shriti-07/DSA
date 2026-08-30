@@ -1,6 +1,28 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums){
+        if(nums.size()==0) return 0;
+        unordered_set<int> arr(nums.begin(),nums.end());
+        int longest=1;
+        for(auto i : arr){
+            if(arr.count(i-1)){
+                continue;
+            }
+            else{}
+                int count=1;
+                while(arr.find(i+1)!=arr.end()){
+                    count++;
+                    i++;
+                }
+                longest=max(longest,count);
+            }
+            return longest;
+    }
+};
+
+/* class Solution {
+public:
+    int longestConsecutive(vector<int>& nums){
         if(nums.size()==0){
             return 0;
         }
@@ -24,7 +46,7 @@ public:
         }
         return longest;
     }
-};
+}; */
 
 /* class Solution {
 private:
