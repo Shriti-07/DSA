@@ -15,6 +15,7 @@ Solving dsa questions.
 | [0035-search-insert-position](https://github.com/Shriti-07/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shriti-07/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shriti-07/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shriti-07/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shriti-07/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shriti-07/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -94,6 +95,7 @@ Solving dsa questions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shriti-07/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -107,6 +109,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shriti-07/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shriti-07/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shriti-07/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
