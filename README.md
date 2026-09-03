@@ -32,6 +32,7 @@ Solving dsa questions.
 | [0704-binary-search](https://github.com/Shriti-07/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shriti-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Solving dsa questions.
 | ------- |
 | [0048-rotate-image](https://github.com/Shriti-07/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
