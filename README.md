@@ -28,6 +28,7 @@ Solving dsa questions.
 | [0162-find-peak-element](https://github.com/Shriti-07/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shriti-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shriti-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@ Solving dsa questions.
 | [0128-longest-consecutive-sequence](https://github.com/Shriti-07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@ Solving dsa questions.
 | [0015-3sum](https://github.com/Shriti-07/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
