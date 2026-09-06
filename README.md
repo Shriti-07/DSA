@@ -34,6 +34,7 @@ Solving dsa questions.
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shriti-07/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shriti-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -104,6 +105,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shriti-07/DSA/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
