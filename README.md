@@ -7,6 +7,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shriti-07/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shriti-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shriti-07/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Shriti-07/DSA/tree/master/0031-next-permutation) |
@@ -149,10 +150,15 @@ Solving dsa questions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shriti-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shriti-07/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
