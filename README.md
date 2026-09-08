@@ -154,6 +154,7 @@ Solving dsa questions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shriti-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Shriti-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -167,4 +168,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shriti-07/DSA/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shriti-07/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
