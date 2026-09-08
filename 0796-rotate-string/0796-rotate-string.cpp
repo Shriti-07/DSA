@@ -2,6 +2,18 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
         if(s.length()!=goal.length()) return false;
+        s=s+s;
+        if(s.contains(goal)){
+            return true;
+        }
+        return false;
+    }
+};
+
+/* class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.length()!=goal.length()) return false;
         int i=0;
         string character="";
         while(i<s.length()){
@@ -14,4 +26,4 @@ public:
         }
         return false;
     }
-};
+}; */
