@@ -2,13 +2,21 @@ class Solution {
 public:
     bool rotateString(string s, string goal) {
         if(s.length()!=goal.length()) return false;
+        return (s+s).find(goal) != string::npos;
+    }
+};
+
+/* class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.length()!=goal.length()) return false;
         s=s+s;
         if(s.contains(goal)){
             return true;
         }
         return false;
     }
-};
+}; */
 
 /* class Solution {
 public:
