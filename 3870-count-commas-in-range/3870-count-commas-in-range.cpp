@@ -6,11 +6,16 @@ public:
         long long upper=9999;
         long long total=0;
         long long commasPerNum=1;
+        int a=4;
         while(lower<=n){
             long long count = min(upper, (long long)n) - lower + 1;
             total += count*commasPerNum;
             lower*=10;
             upper=((upper+1)*10)-1;
+            if(a%3==0){
+                count=(a-1)/3;
+            }
+            a++;
         }
         return total;
     }
