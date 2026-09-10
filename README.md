@@ -39,6 +39,7 @@ Solving dsa questions.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shriti-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ Solving dsa questions.
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriti-07/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Solving dsa questions.
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Quicksort
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
