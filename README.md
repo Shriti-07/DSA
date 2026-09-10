@@ -35,6 +35,7 @@ Solving dsa questions.
 | [0540-single-element-in-a-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shriti-07/DSA/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/Shriti-07/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shriti-07/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@ Solving dsa questions.
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Shriti-07/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
