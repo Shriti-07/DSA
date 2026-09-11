@@ -40,6 +40,7 @@ Solving dsa questions.
 | [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ Solving dsa questions.
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriti-07/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +182,12 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shriti-07/DSA/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
