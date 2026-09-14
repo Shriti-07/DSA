@@ -79,6 +79,7 @@ Solving dsa questions.
 | [0128-longest-consecutive-sequence](https://github.com/Shriti-07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Shriti-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -170,6 +171,7 @@ Solving dsa questions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shriti-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Shriti-07/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Shriti-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Shriti-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
