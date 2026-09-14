@@ -63,6 +63,7 @@ Solving dsa questions.
 | [0069-sqrtx](https://github.com/Shriti-07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shriti-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Shriti-07/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shriti-07/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -172,6 +173,7 @@ Solving dsa questions.
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Shriti-07/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -196,4 +198,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
