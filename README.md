@@ -65,6 +65,7 @@ Solving dsa questions.
 | [0069-sqrtx](https://github.com/Shriti-07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shriti-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/Shriti-07/DSA/tree/master/3870-count-commas-in-range) |
@@ -135,6 +136,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shriti-07/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -234,4 +236,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriti-07/DSA/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
