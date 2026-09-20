@@ -140,6 +140,7 @@ Solving dsa questions.
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Shriti-07/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shriti-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Solving dsa questions.
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shriti-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shriti-07/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
