@@ -70,6 +70,7 @@ Solving dsa questions.
 | [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shriti-07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/Shriti-07/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Shriti-07/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shriti-07/DSA/tree/master/3875-construct-uniform-parity-array-i) |
