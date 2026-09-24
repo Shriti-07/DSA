@@ -62,6 +62,7 @@ Solving dsa questions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shriti-07/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Shriti-07/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shriti-07/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shriti-07/DSA/tree/master/0069-sqrtx) |
@@ -151,6 +152,7 @@ Solving dsa questions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shriti-07/DSA/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shriti-07/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Union-Find
@@ -226,6 +228,7 @@ Solving dsa questions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shriti-07/DSA/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
