@@ -58,6 +58,7 @@ Solving dsa questions.
 | [0151-reverse-words-in-a-string](https://github.com/Shriti-07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shriti-07/DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Shriti-07/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shriti-07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -159,6 +160,7 @@ Solving dsa questions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shriti-07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shriti-07/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shriti-07/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shriti-07/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shriti-07/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -195,6 +197,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shriti-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shriti-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String
@@ -238,6 +241,7 @@ Solving dsa questions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shriti-07/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Shriti-07/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
