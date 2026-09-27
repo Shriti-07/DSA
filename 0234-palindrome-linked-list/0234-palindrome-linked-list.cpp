@@ -39,6 +39,7 @@ public:
             p1=p1->next;
             p2=p2->next;
         }
+        slow->next = reverseList(secondHalfHead);
         return true;
     }
 };
