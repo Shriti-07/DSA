@@ -27,8 +27,8 @@ public:
                 while(tail->next != nullptr){
                     tail=tail->next;
                 }
+                tail->next=nextNode;
                 if(nextNode != nullptr){
-                    tail->next=nextNode;
                     nextNode->prev=tail;
                 }
             }
