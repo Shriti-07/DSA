@@ -59,6 +59,7 @@ Solving dsa questions.
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shriti-07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shriti-07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shriti-07/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shriti-07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ Solving dsa questions.
 | ------- |
 | [0015-3sum](https://github.com/Shriti-07/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Shriti-07/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
@@ -131,6 +133,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shriti-07/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Shriti-07/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -170,6 +173,7 @@ Solving dsa questions.
 | [0061-rotate-list](https://github.com/Shriti-07/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Shriti-07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shriti-07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Shriti-07/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shriti-07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shriti-07/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
@@ -304,4 +308,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shriti-07/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shriti-07/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
