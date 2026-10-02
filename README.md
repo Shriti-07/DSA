@@ -150,6 +150,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriti-07/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shriti-07/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shriti-07/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shriti-07/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shriti-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,6 +227,7 @@ Solving dsa questions.
 | [0013-roman-to-integer](https://github.com/Shriti-07/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shriti-07/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shriti-07/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shriti-07/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shriti-07/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shriti-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
@@ -243,6 +245,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shriti-07/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shriti-07/DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shriti-07/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shriti-07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -312,4 +315,8 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shriti-07/DSA/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shriti-07/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
