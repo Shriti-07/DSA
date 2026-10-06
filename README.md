@@ -31,6 +31,7 @@ Solving dsa questions.
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shriti-07/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shriti-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +83,7 @@ Solving dsa questions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shriti-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shriti-07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -93,6 +95,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shriti-07/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +111,7 @@ Solving dsa questions.
 | [0205-isomorphic-strings](https://github.com/Shriti-07/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shriti-07/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriti-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +128,7 @@ Solving dsa questions.
 | [0169-majority-element](https://github.com/Shriti-07/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shriti-07/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriti-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2974-minimum-number-game](https://github.com/Shriti-07/DSA/tree/master/2974-minimum-number-game) |
@@ -212,6 +217,7 @@ Solving dsa questions.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shriti-07/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shriti-07/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shriti-07/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shriti-07/DSA/tree/master/0875-koko-eating-bananas) |
