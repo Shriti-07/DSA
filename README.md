@@ -85,6 +85,7 @@ Solving dsa questions.
 | [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
+| [1486-xor-operation-in-an-array](https://github.com/Shriti-07/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shriti-07/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shriti-07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -97,6 +98,7 @@ Solving dsa questions.
 | ------- |
 | [0136-single-number](https://github.com/Shriti-07/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Shriti-07/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
