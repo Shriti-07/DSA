@@ -46,6 +46,7 @@ Solving dsa questions.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shriti-07/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shriti-07/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shriti-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shriti-07/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Shriti-07/DSA/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -135,6 +136,7 @@ Solving dsa questions.
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriti-07/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shriti-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Shriti-07/DSA/tree/master/2974-minimum-number-game) |
 ## Quicksort
 |  |
@@ -226,6 +228,7 @@ Solving dsa questions.
 | [0704-binary-search](https://github.com/Shriti-07/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shriti-07/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shriti-07/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shriti-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,10 +315,12 @@ Solving dsa questions.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shriti-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shriti-07/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shriti-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Shriti-07/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Shriti-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Shriti-07/DSA/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
