@@ -1,0 +1,26 @@
+class Solution {
+public:
+    long long maxAlternatingSum(vector<int>& nums) {
+        int n = nums.size();
+        std::vector<long long> squared(n);
+        for (int i = 0; i < n; ++i) {
+            long long val = nums[i];
+            squared[i] = val * val;
+        }
+        
+        std::sort(squared.begin(), squared.end());
+        
+        long long totalScore = 0;
+        int mid = n / 2;
+        
+        for (int i = 0; i < mid; ++i) {
+            totalScore -= squared[i];
+        }
+        
+        for (int i = mid; i < n; ++i) {
+            totalScore += squared[i];
+        }
+        
+        return totalScore;
+    }
+};
