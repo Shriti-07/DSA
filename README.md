@@ -85,6 +85,7 @@ Solving dsa questions.
 | [0069-sqrtx](https://github.com/Shriti-07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shriti-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shriti-07/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shriti-07/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shriti-07/DSA/tree/master/0412-fizz-buzz) |
@@ -101,6 +102,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shriti-07/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shriti-07/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Shriti-07/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
@@ -305,6 +307,7 @@ Solving dsa questions.
 | [0021-merge-two-sorted-lists](https://github.com/Shriti-07/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shriti-07/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Shriti-07/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Shriti-07/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shriti-07/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
