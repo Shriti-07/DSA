@@ -1,0 +1,35 @@
+class Solution {
+public:
+    int divide(int dividend, int divisor) {
+        if(dividend==INT_MIN && divisor==-1) return INT_MAX;
+        if(dividend==INT_MIN && divisor==1) return INT_MIN;
+
+        int flag=1;
+        
+        long long absDividend = dividend;
+        long long absDivisor = divisor;
+
+        if(absDivisor<0 && absDividend<0){
+            absDividend=-absDividend;
+            absDivisor=-absDivisor;
+        }
+        else{
+            if(absDividend < 0){
+            flag=-1;
+            absDividend=-absDividend;
+            }
+            if(absDivisor < 0){
+            absDivisor=-absDivisor;
+            flag=-1;
+            }
+        }
+        long long quotient = 0;
+        for(int i=31;i>=0;i--){
+            if((absDividend>>i)>=absDivisor){
+                quotient += (1LL << i);
+                absDividend -= (absDivisor << i);
+            }
+        }
+        return (flag==1) ? quotient : -quotient;
+    }
+};
