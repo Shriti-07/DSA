@@ -83,6 +83,7 @@ Solving dsa questions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shriti-07/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Shriti-07/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Shriti-07/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shriti-07/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shriti-07/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shriti-07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -103,6 +104,7 @@ Solving dsa questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shriti-07/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Shriti-07/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shriti-07/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Shriti-07/DSA/tree/master/0191-number-of-1-bits) |
