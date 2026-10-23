@@ -35,6 +35,7 @@ Solving dsa questions.
 | [0260-single-number-iii](https://github.com/Shriti-07/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shriti-07/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Shriti-07/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shriti-07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ Solving dsa questions.
 | [0189-rotate-array](https://github.com/Shriti-07/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shriti-07/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shriti-07/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Shriti-07/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Shriti-07/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shriti-07/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shriti-07/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -147,6 +149,7 @@ Solving dsa questions.
 | [0242-valid-anagram](https://github.com/Shriti-07/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shriti-07/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriti-07/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Shriti-07/DSA/tree/master/0455-assign-cookies) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Shriti-07/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shriti-07/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Shriti-07/DSA/tree/master/2974-minimum-number-game) |
@@ -155,6 +158,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Shriti-07/DSA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -328,6 +332,7 @@ Solving dsa questions.
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Shriti-07/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Shriti-07/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shriti-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shriti-07/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
