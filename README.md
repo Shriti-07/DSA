@@ -20,6 +20,7 @@ Solving dsa questions.
 | [0054-spiral-matrix](https://github.com/Shriti-07/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shriti-07/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shriti-07/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shriti-07/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shriti-07/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shriti-07/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shriti-07/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shriti-07/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Shriti-07/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shriti-07/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shriti-07/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Shriti-07/DSA/tree/master/0191-number-of-1-bits) |
@@ -382,6 +384,7 @@ Solving dsa questions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shriti-07/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Shriti-07/DSA/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Shriti-07/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
