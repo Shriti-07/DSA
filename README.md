@@ -41,6 +41,7 @@ Solving dsa questions.
 | [0540-single-element-in-a-sorted-array](https://github.com/Shriti-07/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shriti-07/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shriti-07/DSA/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Shriti-07/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Shriti-07/DSA/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriti-07/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shriti-07/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -336,6 +337,7 @@ Solving dsa questions.
 | ------- |
 | [0455-assign-cookies](https://github.com/Shriti-07/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Shriti-07/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/Shriti-07/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shriti-07/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shriti-07/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Shriti-07/DSA/tree/master/1903-largest-odd-number-in-string) |
